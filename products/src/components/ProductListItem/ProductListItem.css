@@ -2,6 +2,7 @@
  width: 120px;
  height: 120px;
 }
+
 .product-card {
  background-color: white;
  border-radius: 4px;
@@ -9,7 +10,9 @@
  padding: 8px;
  margin: 8px;
  min-width: 285px;
+ color: black;
 }
+
 .product-image-container {
  display: flex;
  justify-content: center;
