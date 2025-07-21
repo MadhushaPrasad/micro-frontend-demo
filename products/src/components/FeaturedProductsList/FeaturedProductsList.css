@@ -1,0 +1,5 @@
+.featured-product-list {
+ display: flex;
+ flex-direction: row;
+ overflow-x: scroll;
+}
