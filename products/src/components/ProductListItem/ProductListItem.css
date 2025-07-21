@@ -1,0 +1,16 @@
+.product-image {
+ width: 120px;
+ height: 120px;
+}
+.product-card {
+ background-color: white;
+ border-radius: 4px;
+ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ padding: 8px;
+ margin: 8px;
+ min-width: 285px;
+}
+.product-image-container {
+ display: flex;
+ justify-content: center;
+}
