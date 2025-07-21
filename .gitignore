@@ -11,6 +11,7 @@
 !.yarn/versions
 
 /products/node_modules
+/host/node_modules
 
 # testing
 /coverage
