@@ -10,8 +10,7 @@
 !.yarn/releases
 !.yarn/versions
 
-/host-app/node_modules
-/remote-app/node_modules
+/products/node_modules
 
 # testing
 /coverage
